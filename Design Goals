@@ -1,0 +1,13 @@
+This 2-3 page site will be a reimagining of valleyrugby.com the web page for my current local rugby club. This will also mean I am assisting a local 501(c)(3) non-profit something I hope I can do more often.
+
+Goals:
+
+1. Create a news/activity feed that will update visitors with new articles and results of various matches.
+2. Work on a modern look for that site, in line with sites from various professional teams.
+3. Use Bootstrap to a create a site that is consitent in it's layout on all devices.
+4. Use leaflet to create a map with directions to the home pitch
+
+Strech Goals:
+
+1. Work with the Facebook/Instagram API to pull images and automatically upload them to a carousel
+2. Work with google analytics so that the site is able to pull information about visitors. 
